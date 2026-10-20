@@ -1,0 +1,6 @@
+timestamp,room,temperature,illuminance,motion,door_state,controller_mode
+2026-10-20 08:00:00,living_room,22.5,150,0,closed,day
+2026-10-20 08:05:00,kitchen,23.0,200,1,open,day
+2026-10-20 23:30:00,bedroom,19.0,5,1,closed,night
+2026-10-20 23:35:00,bedroom,19.2,5,0,closed,night
+2026-10-21 02:00:00,hallway,18.5,0,1,closed,night
